@@ -31,5 +31,5 @@ volunteer_experience: |
 
  - Code Battle 2: Finished 2nd in a college level coding contest organized by IIIT-Bh in Dec, 2017.
 
- - Codersbit: Finsihed 3rd in among fellow college students organized by InterviewBit.
+ - Codersbit: Finsihed 3rd among fellow college students organized by InterviewBit.
 ---
